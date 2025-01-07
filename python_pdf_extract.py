@@ -1,4 +1,4 @@
-file_path = "data/Angebot_DigiBeSt_DIID_nexus_17.09.2021.pdf"
+file_path = "data\17-nachhaltigkeitsziele-in-berlin.pdf"
 
 import pdfplumber
 import re
